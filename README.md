@@ -9,8 +9,6 @@
     My work is, as my name, sometimes debatable...
 </h4>
 
-<hr>
-
 </div>
 
 <p>
