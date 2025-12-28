@@ -21,9 +21,3 @@ I'm a Jack of all trades and master of none which reflects on my contributions i
 
 Please get in touch with me if you have any questions regarding my work, either by opening an issue on one of my projects, or by contacting me on [LinkedIn](https://www.linkedin.com/in/mattiaskindborg/).
 
-<br>
-<div align="center">
-<img width=500 src="https://github-readme-stats.vercel.app/api?username=FantasticFiasco&count_private=true&show_icons=true&theme=tokyonight">
-<br>
-<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantasticFiasco&layout=compact&theme=tokyonight">
-</div>
